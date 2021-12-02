@@ -1,5 +1,3 @@
-import java.rmi.UnmarshalException
-
 object RleEncodingApp extends App {
 
   val rleEncoding = new RleEncoding
